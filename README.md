@@ -46,6 +46,4 @@ Data cleaning and basic analytics
 ## ✅ Phase 4: Images as Matrices
 Understanding images as NumPy arrays
 
-Reading and displaying images using Pillow and Matplotlib
 
-Applying image transformations (e.g., converting to Dark Mode)
